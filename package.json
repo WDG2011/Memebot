@@ -1,0 +1,28 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aki-api": "^5.2.1",
+    "atob": "^2.1.2",
+    "canvacord": "^5.2.0",
+    "discord-xp": "^1.1.14",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "max-listeners-exceeded-warning": "^0.0.1",
+    "mongoose": "^5.12.11",
+    "node-fetch": "^2.6.1",
+    "novelcovid": "^3.0.2",
+    "quickmongo": "^3.0.2",
+    "random-puppy": "^1.1.0",
+    "reconlx": "^1.2.41",
+    "snakecord": "^1.0.7"
+  }
+}
